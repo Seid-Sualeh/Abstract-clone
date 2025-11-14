@@ -90,13 +90,7 @@ You can deploy this on:
 - Improved use of CSS Grid & Flexbox
 - Gained better understanding of responsive design
 
-## 📸 Screenshots
 
-Add screenshots for:
-
-- Mobile (375px)
-- Tablet (768px)
-- Desktop (1440px)
 
 ---
 
