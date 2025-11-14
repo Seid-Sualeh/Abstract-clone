@@ -272,3 +272,31 @@ body {
   font-size: 0.9rem;
   opacity: 0.8;
 }
+
+
+
+/* ===================== RESPONSIVE DESIGN ===================== */
+@media (max-width: 768px) {
+  /* Collapse header buttons and show hamburger */
+  .header-buttons {
+    display: none;
+  }
+
+  .mobile-menu-btn {
+    display: flex;
+  }
+
+  /* Adjust search input width */
+  .search-box input {
+    width: 200px;
+  }
+
+ 
+
+  /* Align header content nicely on small screens */
+  .header-content {
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+  }
+}
