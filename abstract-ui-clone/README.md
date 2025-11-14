@@ -57,7 +57,7 @@ abstract-ui-clone/
 
 ### Desktop View (1440px)
 
-![Desktop View](./screenshots/desktop.png)
+![Desktop View](./images/Screenshot%202025-11-14%20213855.png)
 
 ## 🌍 Deployment
 
